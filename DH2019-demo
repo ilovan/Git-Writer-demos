@@ -566,15 +566,14 @@
     <text>
         <body>
             <div type="chapter" xml:lang="en-CA">
-                <pb facs="https://sites.ualberta.ca/~ilovan/Preface%201.jpg" n="viii"></pb><head>Preface / Préface</head>
+                <pb facs="https://sites.ualberta.ca/~ilovan/Preface%201.jpg" n="viii"></pb><head>Preface</head>
                 <docAuthor>
                     <persName ref="http://viaf.org/viaf/120027154" cert="definite">marie
-                        carrière</persName>
-                </docAuthor>
+                        carrière</persName> </docAuthor>
                 <docAuthor>
                     <persName ref=" http://viaf.org/viaf/56665698" cert="definite">patricia
                         demers</persName>
-                </docAuthor>
+                 </docAuthor>
                 <p xml:id="p0">
                     <hi rend="italic" xml:lang="fr-CA">Ce que les femmes de chaque
                                 génération ont eu à dire et à transmettre</hi>: with brilliant
