@@ -374,10 +374,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[6]/persName_20190708224513",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[6]/persName_20190708225132",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:45:13.949Z",
-	"dcterms:issued": "2019-07-09T04:51:13.794Z",
+	"dcterms:created": "2019-07-09T04:51:32.992Z",
+	"dcterms:issued": "2019-07-09T04:52:52.453Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -389,7 +389,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[6]/persName_20190708224513#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[6]/persName_20190708225132#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -403,7 +403,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[6]/persName_20190708224513#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[6]/persName_20190708225132#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[6]/persName"
 		}
@@ -448,10 +448,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[6]/note_20190708224553",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[6]/note_20190708225132",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:45:53.522Z",
-	"dcterms:issued": "2019-07-09T04:51:13.797Z",
+	"dcterms:created": "2019-07-09T04:51:32.995Z",
+	"dcterms:issued": "2019-07-09T04:52:52.457Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -463,7 +463,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[6]/note_20190708224553#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[6]/note_20190708225132#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -477,7 +477,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[6]/note_20190708224553#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[6]/note_20190708225132#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[6]/note"
 		}
@@ -521,10 +521,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/persName_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/persName_20190708225132",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.610Z",
-	"dcterms:issued": "2019-07-09T04:51:13.798Z",
+	"dcterms:created": "2019-07-09T04:51:32.997Z",
+	"dcterms:issued": "2019-07-09T04:52:52.458Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -536,7 +536,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/persName_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/persName_20190708225132#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -550,7 +550,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/persName_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/persName_20190708225132#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName"
 		}
@@ -595,10 +595,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/persName_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/persName_20190708225132",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.620Z",
-	"dcterms:issued": "2019-07-09T04:51:13.798Z",
+	"dcterms:created": "2019-07-09T04:51:32.998Z",
+	"dcterms:issued": "2019-07-09T04:52:52.458Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -610,7 +610,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/persName_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/persName_20190708225132#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -624,7 +624,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/persName_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/persName_20190708225132#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName"
 		}
@@ -669,10 +669,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.632Z",
-	"dcterms:issued": "2019-07-09T04:51:13.798Z",
+	"dcterms:created": "2019-07-09T04:51:33.000Z",
+	"dcterms:issued": "2019-07-09T04:52:52.458Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -684,7 +684,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -698,7 +698,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/persName"
 		}
@@ -743,10 +743,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[2]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[2]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.642Z",
-	"dcterms:issued": "2019-07-09T04:51:13.798Z",
+	"dcterms:created": "2019-07-09T04:51:33.002Z",
+	"dcterms:issued": "2019-07-09T04:52:52.458Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -758,7 +758,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[2]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[2]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -772,7 +772,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[2]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[2]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/persName[2]"
 		}
@@ -817,10 +817,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[3]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[3]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.652Z",
-	"dcterms:issued": "2019-07-09T04:51:13.798Z",
+	"dcterms:created": "2019-07-09T04:51:33.003Z",
+	"dcterms:issued": "2019-07-09T04:52:52.458Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -832,7 +832,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[3]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[3]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -846,7 +846,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[3]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[3]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/persName[3]"
 		}
@@ -891,10 +891,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[4]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[4]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.664Z",
-	"dcterms:issued": "2019-07-09T04:51:13.798Z",
+	"dcterms:created": "2019-07-09T04:51:33.004Z",
+	"dcterms:issued": "2019-07-09T04:52:52.458Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -906,7 +906,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[4]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[4]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -920,7 +920,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[4]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[4]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/persName[4]"
 		}
@@ -965,10 +965,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[5]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[5]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.675Z",
-	"dcterms:issued": "2019-07-09T04:51:13.798Z",
+	"dcterms:created": "2019-07-09T04:51:33.006Z",
+	"dcterms:issued": "2019-07-09T04:52:52.458Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -980,7 +980,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[5]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[5]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -994,7 +994,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[5]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[5]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/persName[5]"
 		}
@@ -1039,10 +1039,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[6]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[6]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.684Z",
-	"dcterms:issued": "2019-07-09T04:51:13.799Z",
+	"dcterms:created": "2019-07-09T04:51:33.007Z",
+	"dcterms:issued": "2019-07-09T04:52:52.458Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1054,7 +1054,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[6]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[6]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1068,7 +1068,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[6]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[6]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/persName[6]"
 		}
@@ -1113,10 +1113,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[7]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[7]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.696Z",
-	"dcterms:issued": "2019-07-09T04:51:13.799Z",
+	"dcterms:created": "2019-07-09T04:51:33.009Z",
+	"dcterms:issued": "2019-07-09T04:52:52.458Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1128,7 +1128,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[7]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[7]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1142,7 +1142,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[7]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[7]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/persName[7]"
 		}
@@ -1187,10 +1187,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[8]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[8]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.707Z",
-	"dcterms:issued": "2019-07-09T04:51:13.799Z",
+	"dcterms:created": "2019-07-09T04:51:33.010Z",
+	"dcterms:issued": "2019-07-09T04:52:52.458Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1202,7 +1202,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[8]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[8]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1216,7 +1216,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[8]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[4]/persName[8]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/persName[8]"
 		}
@@ -1261,10 +1261,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[2]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[2]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.718Z",
-	"dcterms:issued": "2019-07-09T04:51:13.799Z",
+	"dcterms:created": "2019-07-09T04:51:33.011Z",
+	"dcterms:issued": "2019-07-09T04:52:52.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1276,7 +1276,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[2]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[2]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1290,7 +1290,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[2]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[2]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/persName[2]"
 		}
@@ -1335,10 +1335,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[3]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[3]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.728Z",
-	"dcterms:issued": "2019-07-09T04:51:13.799Z",
+	"dcterms:created": "2019-07-09T04:51:33.013Z",
+	"dcterms:issued": "2019-07-09T04:52:52.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1350,7 +1350,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[3]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[3]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1364,7 +1364,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[3]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[3]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/persName[3]"
 		}
@@ -1409,10 +1409,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[4]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[4]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.739Z",
-	"dcterms:issued": "2019-07-09T04:51:13.799Z",
+	"dcterms:created": "2019-07-09T04:51:33.014Z",
+	"dcterms:issued": "2019-07-09T04:52:52.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1424,7 +1424,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[4]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[4]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1438,7 +1438,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[4]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[4]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/persName[4]"
 		}
@@ -1483,10 +1483,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[5]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[5]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.749Z",
-	"dcterms:issued": "2019-07-09T04:51:13.799Z",
+	"dcterms:created": "2019-07-09T04:51:33.015Z",
+	"dcterms:issued": "2019-07-09T04:52:52.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1498,7 +1498,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[5]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[5]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1512,7 +1512,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[5]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[5]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/persName[5]"
 		}
@@ -1557,10 +1557,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[6]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[6]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.759Z",
-	"dcterms:issued": "2019-07-09T04:51:13.799Z",
+	"dcterms:created": "2019-07-09T04:51:33.017Z",
+	"dcterms:issued": "2019-07-09T04:52:52.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1572,7 +1572,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[6]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[6]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1586,7 +1586,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[6]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/persName[6]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/persName[6]"
 		}
@@ -1631,10 +1631,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/orgName_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/orgName_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.770Z",
-	"dcterms:issued": "2019-07-09T04:51:13.800Z",
+	"dcterms:created": "2019-07-09T04:51:33.019Z",
+	"dcterms:issued": "2019-07-09T04:52:52.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1646,7 +1646,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/orgName_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/orgName_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1660,7 +1660,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/orgName_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/orgName_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/orgName"
 		}
@@ -1705,10 +1705,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/orgName_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/orgName_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.782Z",
-	"dcterms:issued": "2019-07-09T04:51:13.800Z",
+	"dcterms:created": "2019-07-09T04:51:33.021Z",
+	"dcterms:issued": "2019-07-09T04:52:52.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1720,7 +1720,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/orgName_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/orgName_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1734,7 +1734,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/orgName_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/orgName_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/orgName"
 		}
@@ -1779,10 +1779,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/orgName_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/orgName_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.796Z",
-	"dcterms:issued": "2019-07-09T04:51:13.800Z",
+	"dcterms:created": "2019-07-09T04:51:33.022Z",
+	"dcterms:issued": "2019-07-09T04:52:52.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1794,7 +1794,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/orgName_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/orgName_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1808,7 +1808,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/orgName_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/orgName_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/orgName"
 		}
@@ -1853,10 +1853,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/listEvent/event/label/placeName_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/listEvent/event/label/placeName_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.809Z",
-	"dcterms:issued": "2019-07-09T04:51:13.800Z",
+	"dcterms:created": "2019-07-09T04:51:33.024Z",
+	"dcterms:issued": "2019-07-09T04:52:52.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1868,7 +1868,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/listEvent/event/label/placeName_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/listEvent/event/label/placeName_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1882,7 +1882,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/listEvent/event/label/placeName_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/listEvent/event/label/placeName_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/listEvent/event/label/placeName"
 		}
@@ -1927,10 +1927,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/orgName/placeName_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/orgName/placeName_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.820Z",
-	"dcterms:issued": "2019-07-09T04:51:13.800Z",
+	"dcterms:created": "2019-07-09T04:51:33.026Z",
+	"dcterms:issued": "2019-07-09T04:52:52.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1942,7 +1942,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/orgName/placeName_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/orgName/placeName_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -1956,7 +1956,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/orgName/placeName_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/orgName/placeName_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/orgName/placeName"
 		}
@@ -2001,10 +2001,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[2]/placeName_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[2]/placeName_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.832Z",
-	"dcterms:issued": "2019-07-09T04:51:13.800Z",
+	"dcterms:created": "2019-07-09T04:51:33.028Z",
+	"dcterms:issued": "2019-07-09T04:52:52.460Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2016,7 +2016,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[2]/placeName_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[2]/placeName_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2030,7 +2030,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[2]/placeName_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[2]/placeName_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
@@ -2075,10 +2075,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[2]/placeName[2]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[2]/placeName[2]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.874Z",
-	"dcterms:issued": "2019-07-09T04:51:13.800Z",
+	"dcterms:created": "2019-07-09T04:51:33.029Z",
+	"dcterms:issued": "2019-07-09T04:52:52.460Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2090,7 +2090,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[2]/placeName[2]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[2]/placeName[2]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2104,7 +2104,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[2]/placeName[2]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[2]/placeName[2]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName[2]"
 		}
@@ -2149,10 +2149,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/placeName_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/placeName_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.889Z",
-	"dcterms:issued": "2019-07-09T04:51:13.801Z",
+	"dcterms:created": "2019-07-09T04:51:33.031Z",
+	"dcterms:issued": "2019-07-09T04:52:52.460Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2164,7 +2164,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/placeName_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/placeName_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2178,7 +2178,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/placeName_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/placeName_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/placeName"
 		}
@@ -2223,10 +2223,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/orgName/placeName_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/orgName/placeName_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.905Z",
-	"dcterms:issued": "2019-07-09T04:51:13.801Z",
+	"dcterms:created": "2019-07-09T04:51:33.033Z",
+	"dcterms:issued": "2019-07-09T04:52:52.460Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2238,7 +2238,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/orgName/placeName_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/orgName/placeName_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2252,7 +2252,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/orgName/placeName_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/orgName/placeName_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/orgName/placeName"
 		}
@@ -2297,10 +2297,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/date_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/date_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.920Z",
-	"dcterms:issued": "2019-07-09T04:51:13.801Z",
+	"dcterms:created": "2019-07-09T04:51:33.034Z",
+	"dcterms:issued": "2019-07-09T04:52:52.460Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2312,7 +2312,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/date_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/date_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2326,7 +2326,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/date_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/date_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/date"
 		}
@@ -2369,10 +2369,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/date[2]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/date[2]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.935Z",
-	"dcterms:issued": "2019-07-09T04:51:13.801Z",
+	"dcterms:created": "2019-07-09T04:51:33.036Z",
+	"dcterms:issued": "2019-07-09T04:52:52.460Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2384,7 +2384,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/date[2]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/date[2]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2398,7 +2398,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/date[2]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p/date[2]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/date[2]"
 		}
@@ -2441,10 +2441,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.951Z",
-	"dcterms:issued": "2019-07-09T04:51:13.801Z",
+	"dcterms:created": "2019-07-09T04:51:33.038Z",
+	"dcterms:issued": "2019-07-09T04:52:52.460Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2456,7 +2456,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2470,7 +2470,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/date"
 		}
@@ -2513,10 +2513,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date[2]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date[2]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.965Z",
-	"dcterms:issued": "2019-07-09T04:51:13.801Z",
+	"dcterms:created": "2019-07-09T04:51:33.040Z",
+	"dcterms:issued": "2019-07-09T04:52:52.460Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2528,7 +2528,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date[2]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date[2]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2542,7 +2542,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date[2]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date[2]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/date[2]"
 		}
@@ -2585,10 +2585,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date[3]_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date[3]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.981Z",
-	"dcterms:issued": "2019-07-09T04:51:13.801Z",
+	"dcterms:created": "2019-07-09T04:51:33.042Z",
+	"dcterms:issued": "2019-07-09T04:52:52.461Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2600,7 +2600,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date[3]_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date[3]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2614,7 +2614,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date[3]_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[3]/date[3]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/date[3]"
 		}
@@ -2657,10 +2657,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/date_20190708224703",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/date_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:03.995Z",
-	"dcterms:issued": "2019-07-09T04:51:13.801Z",
+	"dcterms:created": "2019-07-09T04:51:33.044Z",
+	"dcterms:issued": "2019-07-09T04:52:52.461Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2672,7 +2672,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/date_20190708224703#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/date_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2686,7 +2686,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/date_20190708224703#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[5]/date_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/date"
 		}
@@ -2729,10 +2729,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/div/listBibl/bibl[2]/placeName_20190708224754",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/div/listBibl/bibl[2]/placeName_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:54.329Z",
-	"dcterms:issued": "2019-07-09T04:51:13.801Z",
+	"dcterms:created": "2019-07-09T04:51:33.046Z",
+	"dcterms:issued": "2019-07-09T04:52:52.461Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2744,7 +2744,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/div/listBibl/bibl[2]/placeName_20190708224754#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/div/listBibl/bibl[2]/placeName_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2758,7 +2758,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/div/listBibl/bibl[2]/placeName_20190708224754#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/div/listBibl/bibl[2]/placeName_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/listBibl/bibl[2]/placeName"
 		}
@@ -2802,10 +2802,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/div/listBibl/bibl/placeName_20190708224754",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/div/listBibl/bibl/placeName_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:54.435Z",
-	"dcterms:issued": "2019-07-09T04:51:13.801Z",
+	"dcterms:created": "2019-07-09T04:51:33.048Z",
+	"dcterms:issued": "2019-07-09T04:52:52.461Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2817,7 +2817,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/div/listBibl/bibl/placeName_20190708224754#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/div/listBibl/bibl/placeName_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2831,7 +2831,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/div/listBibl/bibl/placeName_20190708224754#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/div/listBibl/bibl/placeName_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/listBibl/bibl/placeName"
 		}
@@ -2875,10 +2875,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[8]/persName[2]_20190708224754",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[8]/persName[2]_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:47:54.525Z",
-	"dcterms:issued": "2019-07-09T04:51:13.802Z",
+	"dcterms:created": "2019-07-09T04:51:33.050Z",
+	"dcterms:issued": "2019-07-09T04:52:52.461Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2890,7 +2890,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[8]/persName[2]_20190708224754#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[8]/persName[2]_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2904,7 +2904,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[8]/persName[2]_20190708224754#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[8]/persName[2]_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[8]/persName[2]"
 		}
@@ -2948,10 +2948,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[8]/persName_20190708225035",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[8]/persName_20190708225133",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-09T04:50:35.090Z",
-	"dcterms:issued": "2019-07-09T04:51:13.802Z",
+	"dcterms:created": "2019-07-09T04:51:33.051Z",
+	"dcterms:issued": "2019-07-09T04:52:52.461Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -2963,7 +2963,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[8]/persName_20190708225035#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[8]/persName_20190708225133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo",
@@ -2977,7 +2977,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[8]/persName_20190708225035#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/DH2019-demo?TEI/text/body/div/p[8]/persName_20190708225133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[8]/persName"
 		}
@@ -3352,7 +3352,7 @@
                     and especially Ontario in the pivotal period of the 1970s and 1980s is another.
                     Ces chercheures nous font voir l’importance, voire la
                         nécessité, d’une relecture de textes au féminin, notamment par l’utilisation
-                        de la technologie numérique. Cette relecture est souple et ouverte, d’où
+                        de la technologie numérique. Cette relecture est souple et<pb facs="https://sites.ualberta.ca/~ilovan/Preface%204.jpg" n="xi"></pb> ouverte, d’où
                         l’histoire de nos littératures et de leur réception critique divulgue ses
                         lacunes et son inachèvement.</p>
                 <p xml:id="p7">Material and cultural conditions are intricately interrelated. As
