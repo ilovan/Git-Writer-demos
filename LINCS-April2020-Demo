@@ -572,8 +572,8 @@
                     <persName ref=" http://viaf.org/viaf/56665698" cert="definite">patricia demers</persName>
                  </docAuthor>
                 <p xml:id="p0">
-                    <emph xml:lang="fr-CA">Ce que les femmes de chaque
-                                génération ont eu à dire et à transmettre</emph>: with brilliant
+                    <hi rend="italic" xml:lang="fr-CA">Ce que les femmes de chaque
+                                génération ont eu à dire et à transmettre</hi>: with brilliant
                             succinctness in her contribution to this volume, <persName ref="http://viaf.org/viaf/7387642" cert="definite">Nicole Brossard</persName> enunciates the scope of this collection. These
                             essays are revised versions of papers delivered at the 
                                 
