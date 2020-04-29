@@ -347,7 +347,2802 @@
             </sourceDesc>
         </fileDesc>
         <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-</rdf:RDF></xenoData><encodingDesc>
+
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701622",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.622Z",
+	"dcterms:issued": "2020-04-29T17:39:27.474Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701622#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701622#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[7]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/357154381060230292563/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:high"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701624",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.624Z",
+	"dcterms:issued": "2020-04-29T17:39:27.476Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701624#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701624#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/7387642",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701624",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.624Z",
+	"dcterms:issued": "2020-04-29T17:39:27.476Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701624#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701624#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[4]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/67996917",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701625",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.625Z",
+	"dcterms:issued": "2020-04-29T17:39:27.477Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701625#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701625#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[5]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/51948730",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:reasonably certain"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701625",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.625Z",
+	"dcterms:issued": "2020-04-29T17:39:27.477Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701625#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701625#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[5]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/63155325",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701626",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.626Z",
+	"dcterms:issued": "2020-04-29T17:39:27.477Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701626#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701626#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[5]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/22186962",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701626",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.626Z",
+	"dcterms:issued": "2020-04-29T17:39:27.478Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701626#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701626#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[5]/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/56891114",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701627",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.627Z",
+	"dcterms:issued": "2020-04-29T17:39:27.478Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701627#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701627#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[5]/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "ttp://viaf.org/viaf/125077482",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701627",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.627Z",
+	"dcterms:issued": "2020-04-29T17:39:27.478Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701627#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701627#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[5]/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/33131412",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701627",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.627Z",
+	"dcterms:issued": "2020-04-29T17:39:27.478Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701627#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701627#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[5]/persName[7]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/102848858",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701628",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.628Z",
+	"dcterms:issued": "2020-04-29T17:39:27.478Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701628#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701628#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[5]/persName[8]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/55491034",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701628",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.628Z",
+	"dcterms:issued": "2020-04-29T17:39:27.478Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701628#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701628#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[6]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/116854541",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701629",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.629Z",
+	"dcterms:issued": "2020-04-29T17:39:27.479Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701629#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701629#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[6]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/56891114",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701629",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.629Z",
+	"dcterms:issued": "2020-04-29T17:39:27.479Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701629#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701629#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[6]/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/305358828",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701630",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.630Z",
+	"dcterms:issued": "2020-04-29T17:39:27.479Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701630#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701630#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[6]/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": " http://viaf.org/viaf/110237888",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701630",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.630Z",
+	"dcterms:issued": "2020-04-29T17:39:27.479Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701630#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701630#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[6]/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/56665698",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701631",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.631Z",
+	"dcterms:issued": "2020-04-29T17:39:27.479Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701631#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701631#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[7]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Margaret_Laurence",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701631",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.631Z",
+	"dcterms:issued": "2020-04-29T17:39:27.479Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701631#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701631#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[9]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Margaret_Atwood",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?org_annotation_20200429113701631",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.631Z",
+	"dcterms:issued": "2020-04-29T17:39:27.480Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?org_annotation_20200429113701631#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?org_annotation_20200429113701631#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://viaf.org/viaf/147166987",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?org_annotation_20200429113701632",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.632Z",
+	"dcterms:issued": "2020-04-29T17:39:27.480Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?org_annotation_20200429113701632#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?org_annotation_20200429113701632#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[4]/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://viaf.org/viaf/147166987",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?org_annotation_20200429113701632",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.632Z",
+	"dcterms:issued": "2020-04-29T17:39:27.480Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?org_annotation_20200429113701632#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?org_annotation_20200429113701632#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[6]/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://viaf.org/viaf/124250538",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701649",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.649Z",
+	"dcterms:issued": "2020-04-29T17:39:27.480Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701649#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701649#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/listEvent/event/label/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.geonames.org/6251999",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701649",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.649Z",
+	"dcterms:issued": "2020-04-29T17:39:27.480Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701649#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701649#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/orgName/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.geonames.org/5883102",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701650",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.650Z",
+	"dcterms:issued": "2020-04-29T17:39:27.480Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701650#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701650#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.geonames.org/6251999",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701650",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.650Z",
+	"dcterms:issued": "2020-04-29T17:39:27.480Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701650#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701650#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.geonames.org/6115047",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701651",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.651Z",
+	"dcterms:issued": "2020-04-29T17:39:27.481Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701651#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701651#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[4]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.geonames.org/6115047",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701651",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.651Z",
+	"dcterms:issued": "2020-04-29T17:39:27.481Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701651#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701651#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[4]/orgName/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.geonames.org/5883102",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701651",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.651Z",
+	"dcterms:issued": "2020-04-29T17:39:27.481Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701651#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701651#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div/listBibl/bibl/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://geonames.org/6167865",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701652",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.652Z",
+	"dcterms:issued": "2020-04-29T17:39:27.481Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701652#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?place_annotation_20200429113701652#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div/listBibl/bibl[2]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://geonames.org/6167865",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701652",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.652Z",
+	"dcterms:issued": "2020-04-29T17:39:27.481Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701652#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701652#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "2010"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701653",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.653Z",
+	"dcterms:issued": "2020-04-29T17:39:27.481Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701653#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701653#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/date[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1800/2000"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701653",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.653Z",
+	"dcterms:issued": "2020-04-29T17:39:27.481Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701653#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701653#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[4]/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1987"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701653",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.653Z",
+	"dcterms:issued": "2020-04-29T17:39:27.482Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701653#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701653#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[4]/date[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1986"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701654",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.654Z",
+	"dcterms:issued": "2020-04-29T17:39:27.482Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701654#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701654#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[4]/date[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1993"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701654",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.654Z",
+	"dcterms:issued": "2020-04-29T17:39:27.482Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701654#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?date_annotation_20200429113701654#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[6]/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1950"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701654",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.654Z",
+	"dcterms:issued": "2020-04-29T17:39:27.482Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701654#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701654#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div/listBibl/bibl[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/5793149368896285980004/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701655",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-29T17:37:01.655Z",
+	"dcterms:issued": "2020-04-29T17:39:27.482Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701655#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-demos/master/LINCS-April2020-Demo?person_annotation_20200429113701655#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div/listBibl/bibl[2]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/5793149368896285980004/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description></rdf:RDF></xenoData><encodingDesc>
             <projectDesc>
                 <p/>
             </projectDesc>
@@ -565,15 +3360,15 @@
     <text>
         <body>
             <div type="chapter" xml:lang="en-CA">
-                <pb facs="https://sites.ualberta.ca/~ilovan/Preface%201.jpg" n="viii"/><head>Preface</head>
+                <pb facs="https://sites.ualberta.ca/~ilovan/Preface%201.jpg" n="viii"/><head>Preface / Préface</head>
                 <docAuthor>
-                    <persName ref="http://viaf.org/viaf/120027154" cert="definite">marie carrière </persName></docAuthor>
+                    <persName cert="high" ref="http://viaf.org/viaf/120027154">marie carrière </persName></docAuthor>
                 <docAuthor>
                     <persName ref=" http://viaf.org/viaf/56665698" cert="definite">patricia demers</persName>
                  </docAuthor>
                 <p xml:id="p0">
-                    <hi rend="italic" xml:lang="fr-CA">Ce que les femmes de chaque
-                                génération ont eu à dire et à transmettre</hi>: with brilliant
+                    <emph xml:lang="fr-CA">Ce que les femmes de chaque
+                                génération ont eu à dire et à transmettre</emph>: with brilliant
                             succinctness in her contribution to this volume, <persName ref="http://viaf.org/viaf/7387642" cert="definite">Nicole Brossard</persName> enunciates the scope of this collection. These
                             essays are revised versions of papers delivered at the 
                                 
@@ -585,8 +3380,7 @@
                             Realizing that this material—from the <date from="1800" to="2000">nineteenth century to the present</date>—continues to link and
                             connect, and toggles back and forth across centuries and languages, has
                             been one of the delights of our collaborative work of selection and
-                            positioning.
-                </p>
+                            positioning.</p><p xml:id="p0"/>
                 <p xml:id="p1">
                     Relier, (em)brancher,
                             rapprocher, ce ne sont que quelques mots pour évoquer plus généralement
@@ -673,15 +3467,15 @@
                             of authorship and readership.
                 </p>
                 <p xml:id="p5">Writers and readers, we are reminded through the contributions of
-                    Lindsey McMaster and Cinda Gault, live in interconnected worlds. Certains points de convergence culturels et idéologiques
+                    <persName key="Lindsey McMaster">Lindsey McMaster</persName> and Cinda Gault, live in interconnected worlds. Certains points de convergence culturels et idéologiques
                         mis en œuvre par ces deux études ne sont pas sans nous rappeler les liens
                         rapprochant écriture et lecture au féminin, et cela par rapport aux deux
                         contextes langagiers représentés dans ce recueil. While McMaster
                     returns to nineteenth-century English-Canadian writers, whose divided heroines
                     identify with French Canada, to reflect the emerging nation’s inner conflicts,
                     Gault concentrates on critical response to <persName cert="definite" key="Margaret Laurence" ref="http://dbpedia.org/resource/Margaret_Laurence" type="real">Margaret Laurence</persName>’s protagonists as
-                    representations of unresolved tensions between nationalists and feminists. Marie
-                    Carrière’s analysis of metafeminism captures its range and vacillating
+                    representations of unresolved tensions between nationalists and feminists. <persName ref="http://viaf.org/viaf/357154381060230292563/" key="Carrière, Marie J." cert="high" type="real">Marie
+                    Carrière</persName>’s analysis of metafeminism captures its range and vacillating
                     connections to second-wave feminism through the work of Hélène Dorion, Flora
                     Balzano, and Nadine Bismuth.</p>
                 <p xml:id="p6">The material conditions of production influence how writers do their
@@ -693,7 +3487,7 @@
                     and especially Ontario in the pivotal period of the 1970s and 1980s is another.
                     Ces chercheures nous font voir l’importance, voire la
                         nécessité, d’une relecture de textes au féminin, notamment par l’utilisation
-                        de la technologie numérique. Cette relecture est souple et ouverte, d’où
+                        de la technologie numérique. Cette relecture est souple et<pb facs="https://sites.ualberta.ca/~ilovan/Preface%204.jpg" n="xi"/> ouverte, d’où
                         l’histoire de nos littératures et de leur réception critique divulgue ses
                         lacunes et son inachèvement.</p>
                 <p xml:id="p7">Material and cultural conditions are intricately interrelated. As
@@ -721,7 +3515,7 @@
                             Quebec Women’s Writing/Approches féministes à
                                 l’écriture des canadiennes et québécoises</title>. <placeName ref="http://geonames.org/6167865" key="Toronto">Toronto</placeName>:
                             ECW, 1987. Print.</bibl>
-                        <bibl>Neuman, Shirley, Glennis Stephenson, and Glennis Byron, eds. <title level="m">Reimagining Women: Representations of Women in
+                        <bibl>Neuman, Shirley, <persName key="Byron, Glennis" ref="http://viaf.org/viaf/5793149368896285980004/">Glennis Stephenson</persName>, and <persName key="Byron, Glennis" ref="http://viaf.org/viaf/5793149368896285980004/">Glennis Byron</persName>, eds. <title level="m">Reimagining Women: Representations of Women in
                             Culture</title>. <placeName ref="http://geonames.org/6167865" key="Toronto">Toronto</placeName>: U of Toronto P, 1993. Print.</bibl>
                         <bibl>Neuman, Shirley, and Smaro Kamboureli, eds. <title level="m">A Mazing
                             Space: Writing Canadian Women Writing</title>. Edmonton, AB:
