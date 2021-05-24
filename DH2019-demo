@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -180,10 +177,10 @@
                 </availability>
             </publicationStmt>
             <seriesStmt>
-                <p></p>
+                <p/>
             </seriesStmt>
             <notesStmt>
-                <note></note>
+                <note/>
             </notesStmt>
             <sourceDesc>
 
@@ -349,11 +346,10 @@
                 </listBibl>
             </sourceDesc>
         </fileDesc>
-        <xenoData>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
 </rdf:RDF></xenoData><encodingDesc>
             <projectDesc>
-                <p></p>
+                <p/>
             </projectDesc>
             <classDecl>
                 <taxonomy>
@@ -554,14 +550,14 @@
         </profileDesc>
         <revisionDesc>
             <list>
-                <byline></byline>
-                <item></item>
+                <byline/>
+                <item/>
                 <index>
-                    <term></term>
+                    <term/>
                 </index>
-                <byline></byline>
+                <byline/>
                 <index>
-                    <term></term>
+                    <term/>
                 </index>
             </list>
         </revisionDesc>
@@ -569,7 +565,7 @@
     <text>
         <body>
             <div type="chapter" xml:lang="en-CA">
-                <pb facs="https://www.dropbox.com/s/5k458qt9ixljas9/Preface%201.jpg?dl=0" n="viii"></pb><head>Preface / Préface</head>
+                <pb facs="https://www.dropbox.com/s/5k458qt9ixljas9/Preface%201.jpg?dl=0" n="viii"/><head>Preface / Préface </head>
                 <docAuthor>
                     <persName ref="http://viaf.org/viaf/120027154" cert="high">marie
                         carrière</persName>
